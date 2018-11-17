@@ -1,0 +1,5 @@
+<context>
+  <input pattern="* пожар* *">
+    <output value="Внимание! Пожарная тревога! Покиньте помещение."/>
+  </input>
+</context>
